@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-11T20:09:25 IST" name="Default suite" finished-at="2021-08-11T20:11:03 IST" duration-ms="98336">
+    <groups>
+    </groups>
+    <test started-at="2021-08-11T20:09:25 IST" name="Default test" finished-at="2021-08-11T20:11:03 IST" duration-ms="98336">
+      <class name="Package_TestScripts.TestDataProvider">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:Package_TestScripts.TestDataProvider@3967e60c]" started-at="2021-08-11T20:09:26 IST" name="launchApp" finished-at="2021-08-11T20:09:33 IST" duration-ms="7252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="RegistrationDataCheck(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Package_TestScripts.TestDataProvider@3967e60c]" started-at="2021-08-11T20:09:33 IST" name="RegistrationDataCheck" data-provider="getData" finished-at="2021-08-11T20:09:44 IST" duration-ms="11103" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abhay]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abhay@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Abhay]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[R]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Java]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationDataCheck -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:Package_TestScripts.TestDataProvider@3967e60c]" started-at="2021-08-11T20:09:44 IST" name="closeApp" finished-at="2021-08-11T20:09:48 IST" duration-ms="4182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:Package_TestScripts.TestDataProvider@3967e60c]" started-at="2021-08-11T20:09:48 IST" name="launchApp" finished-at="2021-08-11T20:09:55 IST" duration-ms="6626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="RegistrationDataCheck(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Package_TestScripts.TestDataProvider@3967e60c]" started-at="2021-08-11T20:09:55 IST" name="RegistrationDataCheck" data-provider="getData" finished-at="2021-08-11T20:10:06 IST" duration-ms="11031" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Radhika]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[radhika@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Radhika]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[B]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Java]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationDataCheck -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:Package_TestScripts.TestDataProvider@3967e60c]" started-at="2021-08-11T20:10:06 IST" name="closeApp" finished-at="2021-08-11T20:10:06 IST" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:Package_TestScripts.TestDataProvider@3967e60c]" started-at="2021-08-11T20:10:06 IST" name="launchApp" finished-at="2021-08-11T20:10:12 IST" duration-ms="6410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="RegistrationDataCheck(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Package_TestScripts.TestDataProvider@3967e60c]" started-at="2021-08-11T20:10:12 IST" name="RegistrationDataCheck" data-provider="getData" finished-at="2021-08-11T20:10:24 IST" duration-ms="11077" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sumer]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sumer@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Sumer]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[A]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[C#]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationDataCheck -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:Package_TestScripts.TestDataProvider@3967e60c]" started-at="2021-08-11T20:10:24 IST" name="closeApp" finished-at="2021-08-11T20:10:24 IST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:Package_TestScripts.TestDataProvider@3967e60c]" started-at="2021-08-11T20:10:24 IST" name="launchApp" finished-at="2021-08-11T20:10:30 IST" duration-ms="6120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="RegistrationDataCheck(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Package_TestScripts.TestDataProvider@3967e60c]" started-at="2021-08-11T20:10:30 IST" name="RegistrationDataCheck" data-provider="getData" finished-at="2021-08-11T20:10:41 IST" duration-ms="11493" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ginni]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ginni@yahoo.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Ginni]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[C#]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationDataCheck -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:Package_TestScripts.TestDataProvider@3967e60c]" started-at="2021-08-11T20:10:41 IST" name="closeApp" finished-at="2021-08-11T20:10:45 IST" duration-ms="4140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:Package_TestScripts.TestDataProvider@3967e60c]" started-at="2021-08-11T20:10:45 IST" name="launchApp" finished-at="2021-08-11T20:10:51 IST" duration-ms="5985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="RegistrationDataCheck(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Package_TestScripts.TestDataProvider@3967e60c]" started-at="2021-08-11T20:10:51 IST" name="RegistrationDataCheck" data-provider="getData" finished-at="2021-08-11T20:11:03 IST" duration-ms="11163" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sachin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sachin@yahoo.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Sachin]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[T]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Java]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationDataCheck -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:Package_TestScripts.TestDataProvider@3967e60c]" started-at="2021-08-11T20:11:03 IST" name="closeApp" finished-at="2021-08-11T20:11:03 IST" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- Package_TestScripts.TestDataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
